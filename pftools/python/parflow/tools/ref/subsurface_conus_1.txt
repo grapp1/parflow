@@ -1,4 +1,6 @@
-# Table from Maxwell and Condon (2016): Connections between groundwater flow and transpiration partitioning (DOI: 10.1126/science.aaf7891)
+# Table from Maxwell and Condon (2016):
+# Connections between groundwater flow and transpiration partitioning
+# DOI: 10.1126/science.aaf7891
 key                 Perm	    Porosity	SRes	Alpha	N
 sand	              2.69E-01	0.38	    0.14	3.55	4.16
 loamy_sand	        4.36E-02	0.39	    1.26	3.47	2.74
